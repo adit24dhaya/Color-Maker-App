@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">color_pallet</string>
+    <string name="red">R</string>
+    <string name="blue">B</string>
+    <string name="_0">0</string>
+    <string name="red_0">0</string>
+    <string name="blue_0">0</string>
+    <string name="green_0">0</string>
+    <string name="_000000">#000000</string>
+    <string name="reset">Reset</string>
+    <string name="intital_value">#000000</string>
+    <string name="_0_red">0</string>
+    <string name="_0_blue">0</string>
+    <string name="enter_a_value">Enter a value</string>
+    <string name="enter_a_value_lan">Enter a value</string>
+    <string name="reset_lan">Reset</string>
+    <string name="green">G</string>
+</resources>
